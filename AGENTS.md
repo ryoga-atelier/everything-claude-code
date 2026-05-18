@@ -120,7 +120,7 @@ Troubleshoot failures: check test isolation → verify mocks → fix implementat
 
 ## Codex workspace setup
 
-- このリポジトリでは `C:\Users\LabDN\.codex\AGENTS.md` のグローバル方針も前提にする。
+- このリポジトリでは `/Users/ryoga-atelier/.codex/AGENTS.md` のグローバル方針も前提にする。
 - 日本語を優先し、開発作業、記事/資料制作、業務自動化の順で Codex を活用する。
 - 外部サービス連携は読み取り確認から始め、書き込み操作はユーザーの明示指示後に行う。
 - UI 確認が必要な場合は Windows の Computer Use ではなく、in-app browser / Browser plugin / Playwright 系の検証を使う。
