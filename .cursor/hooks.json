@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "hooks": {
     "sessionStart": [
       {
@@ -37,7 +38,7 @@
       {
         "command": "node .cursor/hooks/after-file-edit.js",
         "event": "afterFileEdit",
-        "description": "Auto-format, TypeScript check, console.log warning"
+        "description": "Auto-format, TypeScript check, console.log warning, and frontend design-quality reminder"
       }
     ],
     "beforeMCPExecution": [

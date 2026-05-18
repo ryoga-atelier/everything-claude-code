@@ -26,7 +26,8 @@
               "hooks",
               "platform",
               "orchestration",
-              "skills"
+              "skills",
+              "docs"
             ]
           },
           "description": {
@@ -51,7 +52,12 @@
                 "cursor",
                 "antigravity",
                 "codex",
-                "opencode"
+                "gemini",
+                "opencode",
+                "codebuddy",
+                "joycode",
+                "qwen",
+                "zed"
               ]
             }
           },
